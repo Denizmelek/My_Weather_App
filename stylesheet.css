@@ -1,0 +1,46 @@
+body {
+  color: #606470;
+  margin-left: 50px;
+  padding: 70px 0 70px 0;
+  width: 50%;
+}
+
+button {
+  position: relative;
+  top: -53px;
+  left: 336px;
+}
+
+.form-control {
+  margin: 5px;
+  position: relative;
+  top: 28px;
+  width: 40%;
+}
+
+.btn-warning {
+  position: relative;
+  top: -15px;
+  left: 255px;
+}
+
+.weather-summary {
+  margin-left: 5px;
+  line-height: 20px;
+  position: relative;
+  top: -40px;
+}
+
+.weather-temp--today {
+  font-size: 64px;
+  font-weight: 400;
+  margin-left: 150px;
+  position: relative;
+  top: 10px;
+}
+
+.weather-unit__text--today {
+  margin-left: 220px;
+  position: relative;
+  top: -33px;
+}
