@@ -11,6 +11,12 @@ button {
   left: 345px;
 }
 
+small {
+  position: relative;
+  bottom: -15px;
+  font-size: smaller;
+}
+
 .form-control {
   margin: 5px;
   position: relative;
