@@ -18,3 +18,6 @@ https://worldsweatherapp.netlify.app
 
 # Visuals
 <img width="680" alt="Screenshot 2022-09-06 at 22 07 54" src="https://user-images.githubusercontent.com/77960655/189218277-4bcf125d-1167-462e-83c9-d7af6eb792e2.png" />
+
+
+<img width="700" alt="Screenshot 2022-09-11 at 23 02 26" src="https://user-images.githubusercontent.com/77960655/189546826-9fbf1276-c879-42f6-910b-762b5aca464f.png">
