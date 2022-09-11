@@ -44,3 +44,7 @@ button {
   position: relative;
   top: -33px;
 }
+
+a:link {
+  text-decoration: none;
+}
